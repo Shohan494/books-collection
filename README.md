@@ -22,15 +22,14 @@ Sharing some awesome lists of free books related to so many categories. But as a
 
 "জ্ঞ্যান বিতরণ শুভ হোক, সবার মাঝে ছড়িয়ে পড়ুক"
 
-    :)
-    https://github.com/EbookFoundation/free-programming-books
-    https://github.com/mundimark/awesome-books
-    https://github.com/hackerkid/Mind-Expanding-Books
-     https://github.com/sindresorhus/awesome#books
-    https://github.com/RomanTsegelskyi/rbooks
-    https://github.com/dariubs/GoBooks
-    https://github.com/sger/ElixirBooks
-    https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md
+https://github.com/EbookFoundation/free-programming-books
+https://github.com/mundimark/awesome-books
+https://github.com/hackerkid/Mind-Expanding-Books
+https://github.com/sindresorhus/awesome#books
+https://github.com/RomanTsegelskyi/rbooks
+https://github.com/dariubs/GoBooks
+https://github.com/sger/ElixirBooks
+https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md
 
  
 
